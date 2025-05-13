@@ -115,5 +115,21 @@ https://github.com/AsyncFuncAI/deepwiki-open
 
 https://tinywow.com/
 
+resources for website design inspiration
+
+- http://supahero.io → hero sections
+- http://bentogrids.com → bento grids
+- http://footer.design → footers
+- http://cta.gallery → cta sections
+- http://landing.love → landing pages
+- http://saaspo.com → saas websites
+- http://godly.website → website inspirations
+- http://dark.design → dark websites
+- http://navbar.gallery → navbar
+- http://60fps.design → motion
+
+https://github.com/mem0ai/mem0/blob/main/examples/misc/study_buddy.py
+https://github.com/patchy631/ai-engineering-hub/tree/main/book-writer-flow
+
 
 retro effect website design
