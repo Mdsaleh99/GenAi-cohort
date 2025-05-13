@@ -97,3 +97,23 @@ https://www.dailydoseofds.com/p/rag-over-audio-files/
 https://github.com/openai/openai-agents-python
 https://openai.github.io/openai-agents-python/guardrails/
 https://openai.github.io/openai-agents-python/agents/
+
+https://www.patterns.dev/
+
+
+https://utho.com/docs/products/compute/cloud/getting-started/quick-start/
+https://utho.com/
+https://www.npmjs.com/package/cheerio
+https://www.trychroma.com/pricing
+https://github.com/langflow-ai/langflow
+https://www.langflow.org/
+https://www.guardrailsai.com/
+https://screenshot.guru/    
+https://docs.github.com/en/rest/using-the-rest-api/getting-started-with-the-rest-api?apiVersion=2022-11-28
+https://github.com/The-Pocket/PocketFlow
+https://github.com/AsyncFuncAI/deepwiki-open
+
+https://tinywow.com/
+
+
+retro effect website design
