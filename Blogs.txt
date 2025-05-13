@@ -11,7 +11,8 @@ Main blogs you must read:
     10. https://www.anthropic.com/news/contextual-retrieval , 
         https://github.com/anthropics/anthropic-cookbook/tree/main/skills/contextual-embeddings
     11. https://www.uber.com/en-IN/blog/query-gpt/
-
+    12. https://syntackle.com/blog/model-context-protocol/
+    13. https://www.anthropic.com/news/model-context-protocol
 
 Others:
     1. https://blog.bytebytego.com/p/79-engineering-blogs-to-level-up

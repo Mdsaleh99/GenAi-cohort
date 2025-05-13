@@ -132,4 +132,11 @@ https://github.com/mem0ai/mem0/blob/main/examples/misc/study_buddy.py
 https://github.com/patchy631/ai-engineering-hub/tree/main/book-writer-flow
 
 
+https://huggingface.co/PrimeIntellect/INTELLECT-2
+https://huggingface.co/unsloth/INTELLECT-2-GGUF
+https://github.com/microsoft/BitNet?tab=readme-ov-file#build-from-source
+https://fly.io/
+
+
+
 retro effect website design
