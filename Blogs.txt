@@ -20,3 +20,5 @@ Others:
     3. https://github.blog/engineering/
     4. https://www.promptingguide.ai/
     5. https://platform.openai.com/docs/guides/embeddings
+
+    
