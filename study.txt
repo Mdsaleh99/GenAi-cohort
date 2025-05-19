@@ -103,13 +103,18 @@ https://www.patterns.dev/
 
 https://utho.com/docs/products/compute/cloud/getting-started/quick-start/
 https://utho.com/
+
 https://www.npmjs.com/package/cheerio
 https://www.trychroma.com/pricing
+
 https://github.com/langflow-ai/langflow
 https://www.langflow.org/
+
 https://www.guardrailsai.com/
 https://screenshot.guru/    
+
 https://docs.github.com/en/rest/using-the-rest-api/getting-started-with-the-rest-api?apiVersion=2022-11-28
+
 https://github.com/The-Pocket/PocketFlow
 https://github.com/AsyncFuncAI/deepwiki-open
 
@@ -138,5 +143,21 @@ https://github.com/microsoft/BitNet?tab=readme-ov-file#build-from-source
 https://fly.io/
 https://neon.tech/postgresql/tutorial
 
+https://github.com/mem0ai/mem0/tree/main/openmemory
+https://mem0.ai/openmemory-mcp
+
+https://github.com/anthropics/anthropic-cookbook
+https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview
+https://docs.google.com/spreadsheets/d/1jIxjzUWG-6xBVIa2ay6yDpLyeuOh_hR_ZB75a47KX_E/edit?gid=869808629#gid=869808629
+
+https://huggingface.co/nari-labs/Dia-1.6B
+https://huggingface.co/models?pipeline_tag=text-to-speech&sort=trending
+https://valkey.io/
+
+https://github.com/modelcontextprotocol/python-sdk
 
 retro effect website design
+
+
+
+https://www.anthropic.com/engineering/building-effective-agents
