@@ -161,3 +161,7 @@ retro effect website design
 
 
 https://www.anthropic.com/engineering/building-effective-agents
+
+
+https://github.com/infiniflow/ragflow
+https://ragflow.io/
