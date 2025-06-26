@@ -1,0 +1,20 @@
+{
+  "name": "02_customer_support_agent",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@langchain/community": "^0.3.43",
+    "@langchain/core": "^0.3.56",
+    "@langchain/groq": "^0.2.3",
+    "@langchain/langgraph": "^0.2.72",
+    "tslab": "^1.0.22",
+    "zod": "^3.24.4",
+    "zod-to-json-schema": "^3.24.5"
+  }
+}
