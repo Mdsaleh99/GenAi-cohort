@@ -10,7 +10,7 @@
 
 Mem0 is a memory architecture that enables AI agents to maintain coherent, contextually rich conversations over extended periods. Unlike traditional approaches that struggle with fixed context windows, Mem0 intelligently extracts, consolidates, and retrieves only the most salient information from conversations.
 
-Learn more at: https://mem0.ai/research
+Learn more at: <https://mem0.ai/research>
 
 ### Key Features
 

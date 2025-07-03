@@ -167,3 +167,6 @@ https://github.com/infiniflow/ragflow
 https://ragflow.io/
 
 https://www.deepwisdom.ai/
+
+https://docling-project.github.io/docling/
+https://mem0.ai/research
