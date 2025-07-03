@@ -47,6 +47,7 @@ def detect_query(state: State):
     state["is_coding_question"] = result.choices[0].message.parsed.is_question_ai
     return state
 
+# isko function ko (means conditional edge of langgraph) pehle batana padta hai ki kya kya possible ways hai jane ke so isliye humne Literal use kiya hai
 def route_edge(state: State) -> Literal["solve_coding_question", "solve_simple_question"]:
     is_coding_question = state.get("is_coding_question")
 
@@ -65,7 +66,7 @@ def solve_coding_question(state: State):
     """
 
     # OpenAI Call
-    result = client.beta.chat.completions.parse(
+    result = client.beta.chat.completions.parse( # beta for structured output pydantic
         model="gpt-4.1",
         response_format=CodingAIResponse,
         messages=[
