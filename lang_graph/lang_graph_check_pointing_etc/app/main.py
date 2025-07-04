@@ -30,7 +30,7 @@ load_dotenv()
 # checkpointing is not a RAG it is a storing a each state in db. that is State class which is in graph.py and next time wahi se state ko load karleta hai and jah pe ruka tha wahi se resume b karta hai
 # e.g: assume we have 5 node in that 3 node successfully worked but 2 failed. so it runs where it was stoped it means resume 
 
-MONGODB_URI = "mongodb://localhost:27017"
+MONGODB_URI = "mongodb://admin:admin@localhost:27017"
 config = {"configurable": {"thread_id": "3"}}
 
 def init():
